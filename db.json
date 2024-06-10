@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "a title",
+      "description": "1 Answer 1 ... JSON_SERVER_STACKBLITZ_URL is the URL where the application is running. You can get this in the preview panel or the sidebar option "
+    },
+    {
+      "id": 2,
+      "title": "another title",
+      "description": "Use this online json-server-auth playground to view and fork json-server-auth example apps and templates on CodeSandbox. Click any example below to run it"
+    }
+  ],
+  "users": []
+}
