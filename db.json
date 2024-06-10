@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "blogs": [
     {
       "id": 1,
       "title": "a title",
@@ -11,5 +11,30 @@
       "description": "Use this online json-server-auth playground to view and fork json-server-auth example apps and templates on CodeSandbox. Click any example below to run it"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "john@mail.com",
+      "password": "$2a$10$9tN7XqBiINcO.iVhh3l93.wZkEij1ZTj4iwfBNwlhad4iyv9/mBIa",
+      "name": "John Doe",
+      "id": 1
+    },
+    {
+      "email": "kazu@mailinator.com",
+      "password": "$2a$10$qpt/8a.2AsblNpAW063DXuZqTVui0V3vLlQUNQOinA2ufMil7LM/C",
+      "name": "Hakeem Gordon",
+      "id": 2
+    },
+    {
+      "email": "hopicicafu@mailinator.com",
+      "password": "$2a$10$KiefMmDsHtTG6B1sfXCdYOcLmCnWoZIPTOLcGD2MVN3KWKicH88wK",
+      "name": "George Cote",
+      "id": 3
+    },
+    {
+      "email": "cofavare@mailinator.com",
+      "password": "$2a$10$oWJzRMV5unOqe.E5C2vW2uJq2kPihohBdiD7INq0dg/R3IlaT6/.m",
+      "name": "Grant Manning",
+      "id": 4
+    }
+  ]
 }
